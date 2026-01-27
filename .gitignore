@@ -1,0 +1,18 @@
+# Virtualenv
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+
+# Dane i wyniki (nie wrzucamy do repo)
+data/raw/
+data/processed/
+outputs/
+
+# System
+.DS_Store
+Thumbs.db
